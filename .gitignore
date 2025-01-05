@@ -1,0 +1,5 @@
+/target/
+**/*.rs.bk
+Cargo.lock    # Include this line for libraries, exclude it for executables
+.env
+.cargo/config.toml
