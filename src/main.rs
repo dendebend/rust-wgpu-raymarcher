@@ -5,8 +5,8 @@ use winit::{
     window::WindowBuilder,
 };
 
-const W: u32 = 640;
-const H: u32 = 360;
+const W: u32 = 1920;
+const H: u32 = 1080;
 
 struct State {
     surface: wgpu::Surface,
